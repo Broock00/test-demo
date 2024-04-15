@@ -1,3 +1,1 @@
-# Demo
-
-HELLO WORLD!!
+# DemoThe demo loader
